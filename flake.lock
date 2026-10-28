@@ -3,8 +3,8 @@
     "lidarr-src": {
       "flake": false,
       "locked": {
-        "lastModified": 1763163964,
-        "narHash": "sha256-IxTUGwx0xH9GgBUwEqjn0bngvDAdahQAsDg5H4qy3ck=",
+        "lastModified": 1789401345,
+        "narHash": "sha256-PjUQqCtE1jOE2zu17wGTTt2NlQJBlWPmrfjqMsXJ4lU=",
         "type": "tarball",
         "url": "https://lidarr.servarr.com/v1/update/master/updatefile?os=linux&runtime=netcore&arch=x64"
       },
